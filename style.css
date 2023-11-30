@@ -206,8 +206,6 @@ text-align: center;
   font-size: 28px;
  
  }
-
- 
  .seccion1 div :nth-child(3){
     position: absolute;
     top: 200px;
@@ -283,4 +281,3 @@ text-align: center;
    top: 580px;
    left: 500px;
 }
- 
