@@ -281,9 +281,4 @@ text-align: center;
    top: 580px;
    left: 500px;
 }
- .seccion2{
-    width: auto;
-    grid-column: 1/-1;
-    position: relative;
-    background-color: red ;
- }
+ 
